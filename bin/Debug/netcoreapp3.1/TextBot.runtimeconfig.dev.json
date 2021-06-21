@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\adino\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\adino\\.nuget\\packages"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+C:\Users\adino\source\repos\LoneText\TextBot\bin\Debug\netcoreapp3.1\TextBot.exe
+C:\Users\adino\source\repos\LoneText\TextBot\bin\Debug\netcoreapp3.1\TextBot.deps.json
+C:\Users\adino\source\repos\LoneText\TextBot\bin\Debug\netcoreapp3.1\TextBot.runtimeconfig.json
+C:\Users\adino\source\repos\LoneText\TextBot\bin\Debug\netcoreapp3.1\TextBot.runtimeconfig.dev.json
+C:\Users\adino\source\repos\LoneText\TextBot\bin\Debug\netcoreapp3.1\TextBot.dll
+C:\Users\adino\source\repos\LoneText\TextBot\bin\Debug\netcoreapp3.1\TextBot.pdb
+C:\Users\adino\source\repos\LoneText\TextBot\obj\Debug\netcoreapp3.1\TextBot.csprojAssemblyReference.cache
+C:\Users\adino\source\repos\LoneText\TextBot\obj\Debug\netcoreapp3.1\TextBot.AssemblyInfoInputs.cache
+C:\Users\adino\source\repos\LoneText\TextBot\obj\Debug\netcoreapp3.1\TextBot.AssemblyInfo.cs
+C:\Users\adino\source\repos\LoneText\TextBot\obj\Debug\netcoreapp3.1\TextBot.csproj.CoreCompileInputs.cache
+C:\Users\adino\source\repos\LoneText\TextBot\obj\Debug\netcoreapp3.1\TextBot.dll
+C:\Users\adino\source\repos\LoneText\TextBot\obj\Debug\netcoreapp3.1\TextBot.pdb
+C:\Users\adino\source\repos\LoneText\TextBot\obj\Debug\netcoreapp3.1\TextBot.genruntimeconfig.cache
